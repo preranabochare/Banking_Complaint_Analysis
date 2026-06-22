@@ -64,4 +64,7 @@ The Power BI dashboard provides:
 - A small number of complaint categories account for a large portion of total complaints.
 - Certain companies receive significantly higher complaint volumes.
 - Most Complaints received timely responses from company.
-- Complaint Patterns vary across products and regions. 
+- Complaint Patterns vary across products and regions.
+
+## Note:
+The Power BI dashboard file is not included due to GitHub file size limitations. Dashboard screenshot are provided for referance.
