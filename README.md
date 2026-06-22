@@ -51,6 +51,8 @@ The Power BI dashboard provides:
 - Submission channel Insights
 - Timely Response Metrics
 
+![image alt](https://github.com/preranabochare/Banking_Complaint_Analysis/blob/7f0abbfe0f4e6464369c4692b5230eb75c192b6e/dashboard%201.png)
+
 ## Key Findings
 
 - Most Complaints were submitted through the web channel.
