@@ -55,6 +55,8 @@ The Power BI dashboard provides:
 ![image alt](https://github.com/preranabochare/Banking_Complaint_Analysis/blob/7f0abbfe0f4e6464369c4692b5230eb75c192b6e/dashboard%201.png)
 
 ### Dashboard 2
+![image alt](https://github.com/preranabochare/Banking_Complaint_Analysis/blob/a6fa843d662812dc9cdf1b803c131cad59e16b18/dashboard%202.png)
+
 
 ## Key Findings
 
