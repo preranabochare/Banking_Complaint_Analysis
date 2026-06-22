@@ -5,6 +5,7 @@ This project analyzes customer complaints in the banking sector using SQL, Pytho
 
 ## Dataset
 Note : Dataset not included due to GitHub file size limitations.
+
 Source : Consumer Financial Protection Bureau (CFPB) Consumer Complaint Database.
 
 ## Tools & Technologies
