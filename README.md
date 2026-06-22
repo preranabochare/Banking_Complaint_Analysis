@@ -3,6 +3,10 @@
 ## Project Overview
 This project analyzes customer complaints in the banking sector using SQL, Python, Power BI. The Objective is to identify major complaint categories, understand customer complaint patterns, evaluate company responses, and create interactive visualizations for business insights.
 
+## Dataset
+Note : Dataset not included due to GitHub file size limitations.
+Source : Consumer Financial Protection Bureau (CFPB) Consumer Complaint Database.
+
 ## Tools & Technologies
 - SQL (MySQL)
 - Python
